@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Mate Beridze</h1>
+<h1 align="center">Hi 👋, I'm Mate Beridze</h1>
 <h3 align="center">Enthusiastic Full-Stack Engineer from Georgia 🇬🇪💻🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beridzemate&label=Profile%20views&color=0e75b6&style=flat" alt="beridzemate" /> </p>
